@@ -1,1 +1,1 @@
-console.log("First program");
+console.log("First program");  // Ne wlinjbfdjhbkf
